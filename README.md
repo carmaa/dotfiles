@@ -5,4 +5,4 @@ Using `stow` to sync symlinks between the repo and the home directory.
 3. Clone repo: `git clone git@github.com:carmaa/dotfiles.git ~/.dotfiles`
 4. Install homebrew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 5. Install apps by going to the homebrew folder with the Brewfile and issue: `brew bundle`
-6. Install configs by using stow: `stow bash` and `stow git` for instance
+6. Install configs by using stow: `stow bash`, `stow git`, and `stow starship` for instance
